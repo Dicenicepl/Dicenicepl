@@ -1,11 +1,9 @@
 <div align="center">
 
-# 🌐 SYSTEM ONLINE: DICENICEPL
+# DICENICEPL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksander-%C5%82oszakow)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksander.loszakow@gmail.com)
-
-<img src="https://capsule-render.vercel.sh/content?type=cyber&text=Aleksander%20Łoszakow&height=180&theme=cyber&density=2&purple=true" width="100%"/>
 
 > ⚡ **"Wyciągam krytykę w lepszego mnie na jutro."**
 
@@ -60,11 +58,6 @@
 ---
 
 ### 📊 MATRYCA STATYSTYK CONTRIBUCJI
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dicenicepl&show_icons=true&theme=cyberpunk&count_private=true&hide_border=true" align="center" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dicenicepl&layout=compact&theme=cyberpunk&hide_border=true&langs_count=5" align="center" height="170" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dicenicepl&theme=cyberpunk&hide_border=true" width="100%" />
